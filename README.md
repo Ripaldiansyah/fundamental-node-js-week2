@@ -1,4 +1,4 @@
-# Week 1 fundamental Node.JS
+# Week 2 fundamental Node.JS
 
 Dalam proyek ini, saya mendalami berbagai konsep lanjutan dalam JavaScript yang sangat penting untuk pengembangan aplikasi web modern:
 
